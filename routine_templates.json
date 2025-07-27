@@ -1,0 +1,80 @@
+[
+  {
+    "goal": "weight gain",
+    "time": "15-30",
+    "morning": [
+      "Wake up at 6:30 AM",
+      "Stretch for 5 minutes",
+      "Drink 1 glass warm water with soaked almonds"
+    ],
+    "workout": [
+      "10 push-ups",
+      "3 sets of dumbbell curls (each hand)",
+      "Bodyweight squats – 15 reps"
+    ],
+    "meals": [
+      "Heavy breakfast: Banana + bread + peanut butter",
+      "Lunch: Dal, rice, roti with ghee",
+      "Evening snack: Boiled chana or banana shake",
+      "Dinner: Paneer/eggs + 2 chapatis"
+    ],
+    "evening": [
+      "Light walk for 10 minutes",
+      "Avoid phone 30 mins before sleep",
+      "Sleep by 10:30 PM"
+    ],
+    "tip": "Your future self will thank you for showing up today."
+  },
+  {
+    "goal": "fat loss",
+    "time": "15-30",
+    "morning": [
+      "Wake up at 6:00 AM",
+      "Drink lemon water",
+      "5 minutes of deep breathing"
+    ],
+    "workout": [
+      "Jumping jacks – 30 secs",
+      "Mountain climbers – 3 sets",
+      "Plank – 45 seconds"
+    ],
+    "meals": [
+      "Oats or poha breakfast",
+      "Lunch: dal + sabzi + 1 roti",
+      "Snack: roasted chana or fruits",
+      "Dinner: light soup or 1 roti with sabzi"
+    ],
+    "evening": [
+      "Avoid screen after 9 PM",
+      "Do light stretching before bed",
+      "Sleep by 10:00 PM"
+    ],
+    "tip": "You don’t have to be extreme, just consistent."
+  },
+  {
+    "goal": "energy boost",
+    "time": "15-30",
+    "morning": [
+      "Wake up at 7:00 AM",
+      "Open windows and take fresh air",
+      "Drink 1 glass water + 3 deep breaths"
+    ],
+    "workout": [
+      "Spot jogging – 2 mins",
+      "Arm circles – 1 min",
+      "High knees – 1 min"
+    ],
+    "meals": [
+      "Breakfast: Upma + fruit",
+      "Lunch: Simple dal + sabzi + rice",
+      "Snack: Sprouts or lassi",
+      "Dinner: Curd rice or moong dal soup"
+    ],
+    "evening": [
+      "Listen to calming music",
+      "Sit quietly for 5 mins with closed eyes",
+      "Sleep before 11 PM"
+    ],
+    "tip": "Big goals are achieved by small daily habits."
+  }
+]
