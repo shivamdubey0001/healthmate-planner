@@ -174,7 +174,7 @@ Works with whatever you have:
 1. **Download the project**
    ```bash
    # If you have git
-   git clone https://github.com/your-username/healthmate.git
+   git clone https://github.com/shivamdubey0001/healthmate-planner.git
    cd healthmate
 
    # Or just download and extract the ZIP file
